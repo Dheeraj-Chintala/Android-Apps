@@ -1,0 +1,11 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "editor.suggest.showStatusBar": true,
+    "cmake.options.statusBarVisibility": "compact",
+    "zenMode.hideStatusBar": false,
+    "workbench.statusBar.visible": true,
+    "problems.showCurrentInStatus": true,
+    "json.schemas": [
+        
+    ]
+}
