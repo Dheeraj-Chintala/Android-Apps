@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "458247721357",
+    "project_id": "e-ellenki",
+    "storage_bucket": "e-ellenki.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458247721357:android:2b1f618adb6f41cfb5edc4",
+        "android_client_info": {
+          "package_name": "com.example.e_ellenki"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMwPV_sS9QvWBDq49tB-BygpRW9qRDUZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
