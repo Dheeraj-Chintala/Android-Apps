@@ -86,7 +86,7 @@ A Flutter-based mobile application that combines the power of AI chat with a per
 ### Setup Instructions
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Dheeraj-Chintala/Android-Apps.git
 cd fitness_app
 
 ```
