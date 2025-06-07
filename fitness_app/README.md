@@ -77,7 +77,7 @@ A Flutter-based mobile application that combines the power of AI chat with a per
 | AI Integration   | OpenRouter API |
 | Data Storage     | Supabase Storage |
 | Authentication   | Supabase Authentication |
-| UI Components    | Material Design, Custom Widgets |
+| UI Components    | Material Design, Custom Widgets|
 
 ---
 
