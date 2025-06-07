@@ -1,6 +1,6 @@
 # DriveNote
 
-DriveNote is a Flutter application that allows users to create, view, edit, and store plain text notes directly in their Google Drive. It utilizes Google OAuth 2.0 for authentication and securely uploads notes to a dedicated folder in the user's Drive.
+DriveNote is a Flutter application that allows users to create, view, edit, and store plain text notes directly in their Google Drive. It utilizes Google OAuth 2.0 for authentication and securely uploads notes to a dedicated folder in the user's Drive. 
 
 ## Features
 
