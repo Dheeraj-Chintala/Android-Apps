@@ -39,15 +39,11 @@ DriveNote is a Flutter application that allows users to create, view, edit, and 
 
 
 
-### Clone the repo
+1.Clone the repo
+  ```bash
+  git clone https://github.com/Dheeraj-Chintala/Android-Apps.git
+  cd drivenotes
 
-_git clone https://github.com/Dheeraj-Chintala/Android-Apps/tree/master/drivenote_
-
-_cd drivenotes_
-
-
-
-### Install dependencies
 
 _flutter pub get_
 
