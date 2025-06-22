@@ -1,4 +1,5 @@
 # HiveShare -Donation Sharing App
+
 <img src="assets/image (6).png" width="100%" height="auto">
 
  This mobile application is built for the **Google Developer Groups (GDG) Solution Challenge 2025**. This app empowers communities by allowing individuals to **donate leftover food, clothes, electronics, and more** to those in need. Users can view donation posts nearby, connect with donors/receivers, and contribute to reducing waste while helping others.
