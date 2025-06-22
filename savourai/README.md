@@ -59,7 +59,13 @@ SavourAI is a beautiful Flutter application that delivers a dynamic, swipeable f
 ---
 ## OR  Getting Started
 
-1. **Clone the repo:**
+1. Clone the repo
    ```bash
    git clone https://github.com/Dheeraj-Chintala/Android-Apps.git
    cd savourai
+2. Get dependencies
+   ```bash
+   flutter pub get
+3. Run
+   ```bash
+   flutter run
