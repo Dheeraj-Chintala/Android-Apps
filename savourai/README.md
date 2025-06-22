@@ -1,6 +1,6 @@
 # SavourAI
 
-<img src="assets/screenshots/Untitled design (1).png"  height="500">
+<img src="assets/image (5).png"  height="auto" width="100%">
 
 SavourAI is a beautiful Flutter application that delivers a dynamic, swipeable feed of random meals using [TheMealDB API](https://www.themealdb.com/api.php). Think of it as a Reels-style food discovery experience, complete with YouTube recipe links, ingredient lists, and more!
 
