@@ -41,7 +41,6 @@ SavourAI is a beautiful Flutter application that delivers a dynamic, swipeable f
 
 ---
 
-
 ##  Tech Stack
 
 - Flutter
@@ -52,11 +51,13 @@ SavourAI is a beautiful Flutter application that delivers a dynamic, swipeable f
 
 ---
 
-## Direct APK Download
-[ C L I C K  H E R E ](NBXZFB)
+##  Direct APK Download 
+<a href="https://github.com/Dheeraj-Chintala/Android-Apps/raw/master/savourai/SavourAI.apk" download>
+  <img src="https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android" alt="Download APK">
+</a>
 
-
-##  Getting Started
+---
+## OR  Getting Started
 
 1. **Clone the repo:**
    ```bash
