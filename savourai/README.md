@@ -1,16 +1,64 @@
-# savourai
+# SavourAI
 
-A new Flutter project.
+<img src="assets/screenshots/Untitled design (1).png"  height="500">
 
-## Getting Started
+SavourAI is a beautiful Flutter application that delivers a dynamic, swipeable feed of random meals using [TheMealDB API](https://www.themealdb.com/api.php). Think of it as a Reels-style food discovery experience, complete with YouTube recipe links, ingredient lists, and more!
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+##  Features
+-  Personal Assisted Chatbot
+-  Reels-like horizontal scrolling of meals
+-  Auto-extracted background color from meal image
+-  YouTube link integration for each recipe
+-  Ingredients and instructions display
+-  Infinite scroll with dynamic meal loading
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
+##  Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Detailed recipes and video tutorials
+<div>
+  <img src="assets/screenshots/Screenshot_2025-06-22-10-35-20-41_d5dfbe562baa12eb5597bcff67558a9e.jpg" height="500">
+  <img src="assets/screenshots/Screenshot_2025-06-22-10-36-36-80_d5dfbe562baa12eb5597bcff67558a9e.jpg" height="500">
+  <img src="assets/screenshots/Screenshot_2025-06-22-10-36-54-52_d5dfbe562baa12eb5597bcff67558a9e.jpg" height="500">
+</div>
+
+### Dynamic Meal Search
+<div>
+        <img src="assets/screenshots/Screenshot_2025-06-22-10-37-40-03_d5dfbe562baa12eb5597bcff67558a9e.jpg" height="500">
+      <img src="assets/screenshots/Screenshot_2025-06-22-10-37-24-62_d5dfbe562baa12eb5597bcff67558a9e.jpg" height="500">
+            <img src="assets/screenshots/Screenshot_2025-06-22-10-37-55-83_d5dfbe562baa12eb5597bcff67558a9e.jpg" height="500">
+
+</div>
+
+### Assisted Chatbot and Consent Page
+<div>
+          <img src="assets/screenshots/Screenshot_2025-06-22-10-39-03-14_d5dfbe562baa12eb5597bcff67558a9e.jpg" height="500">
+                   <img src="assets/screenshots/Screenshot_2025-06-22-10-37-18-67_d5dfbe562baa12eb5597bcff67558a9e.jpg" height="500">
+
+</div>
+
+---
+
+
+##  Tech Stack
+
+- Flutter
+- Dart
+- TheMealDB API
+- palette_generator for dominant image color
+- http for API calls
+
+---
+
+## Direct APK Download
+[ C L I C K  H E R E ](NBXZFB)
+
+
+##  Getting Started
+
+1. **Clone the repo:**
+   ```bash
+   git clone https://github.com/Dheeraj-Chintala/Android-Apps.git
+   cd savourai
