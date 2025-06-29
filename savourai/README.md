@@ -1,9 +1,18 @@
 # SavourAI
 <img src="assets/image (5).png"  height="auto" width="100%">
+<p align="center">
+  <a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter-3.x-blue?logo=flutter" alt="Flutter"></a>
+  <a href="https://developer.android.com"><img src="https://img.shields.io/badge/Platform-Android-green?logo=android" alt="Android"></a>
+  <a href="https://github.com/Dheeraj-Chintala/Android-Apps/blob/master/savourai/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
+</p>
+
 
 SavourAI is a beautiful Flutter application that delivers a dynamic, swipeable feed of random meals using [TheMealDB API](https://www.themealdb.com/api.php). Think of it as a Reels-style food discovery experience, complete with YouTube recipe links, ingredient lists, and more!
 
 ---
+
+
+
 
 ##  Features
 -  Personal Assisted Chatbot
