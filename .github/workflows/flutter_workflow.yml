@@ -11,19 +11,20 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
+    - uses: actions/checkout@v3
 
-    - name: Set up Flutter
-      uses: subosito/flutter-action@v2
+    - uses: subosito/flutter-action@v2
       with:
         flutter-version: '3.13.0'
 
     - name: Install dependencies
       run: flutter pub get
+      working-directory: Android-Apps/savourai
 
     - name: Analyze code
       run: flutter analyze
+      working-directory: Android-Apps/savourai
 
     - name: Run tests
       run: flutter test
+      working-directory: Android-Apps/savourai
