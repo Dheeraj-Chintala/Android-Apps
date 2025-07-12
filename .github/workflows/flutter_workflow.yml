@@ -19,12 +19,12 @@ jobs:
 
     - name: Install dependencies
       run: flutter pub get
-      working-directory: Android-Apps/savourai
+      working-directory: savourai
 
     - name: Analyze code
       run: flutter analyze
-      working-directory: Android-Apps/savourai
+      working-directory: savourai
 
     - name: Run tests
       run: flutter test
-      working-directory: Android-Apps/savourai
+      working-directory: savourai
