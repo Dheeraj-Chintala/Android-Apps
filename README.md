@@ -69,10 +69,6 @@ This repository contains various Android applications developed using Flutter. S
 
 
 
-    
-    
-
-
 </div>
 
 ##  Getting Started
@@ -89,4 +85,3 @@ To run any of the apps:
 3. Run
    ```bash
    flutter run
-   
