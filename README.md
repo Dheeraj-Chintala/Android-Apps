@@ -12,6 +12,7 @@ This repository contains various Android applications developed using Flutter. S
   <a href="https://github.com/Dheeraj-Chintala/Android-Apps/stargazers"><img src="https://img.shields.io/github/stars/Dheeraj-Chintala/Android-Apps?style=social" alt="GitHub stars"></a>
 </p>
 
+
 ---
 
 ##  Features
@@ -85,3 +86,11 @@ To run any of the apps:
 3. Run
    ```bash
    flutter run
+   ```
+
+## Support
+
+If you like my work, you can support me here:
+
+[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/dheerajaxion)
+
