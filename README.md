@@ -1,5 +1,5 @@
 # Android Apps 
-<img src="weather/assets/Untitled design (3) (1).png" heigth="auto" width="100%" >
+<img src="weather/assets/appcover.gif" heigth="auto" width="100%" >
 
 This repository contains various Android applications developed using Flutter. Serves as a collection of Android applications built for different purposes, including utilities, productivity, and experimental projects. Each application has its own folder containing Read me, source code, assets, and other required documents.
 
