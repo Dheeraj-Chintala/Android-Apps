@@ -29,9 +29,11 @@ This repository contains various Android applications developed using Flutter. S
 <div align="center">
   <a href="savourai">  <img src="savourai/assets/image (2).png" height="100">
 </a>
+  
 <a href="hiveShare/gdg_solution">
         <img src="hiveShare/gdg_solution/assets/image (1).png" height="100">
 </a>
+
   <a href="shadowchat">
       <img src="shadowchat/assets/image (4).png" height="100">
 
@@ -42,23 +44,29 @@ This repository contains various Android applications developed using Flutter. S
         <img src="fitness_app/assets/applogo.png" height="100">
 
   </a>
+  
   <a href="instanews">
       <img src="instanews/assets/applogo.png" height="100">
 
   </a>
+  
   <a href="moviesfusion">
       <img src="moviesfusion/assets/applogo.png" height="100">
 
   </a>
+  
   <a href="weather">
         <img src="weather/assets/1255108-removebg-preview.png" height="100">
 
   </a>
-    <a href="shmart">
+  
+  <a href="shmart">
         <img src="shmart/assets/image (3).png" height="100">
 
   </a>
-    <a href="drivenote">
+
+  
+  <a href="drivenote">
       <img src="drivenote/assets/image-removebg-preview.png" height="115">
 
   </a>
